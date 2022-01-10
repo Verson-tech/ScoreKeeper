@@ -1,9 +1,9 @@
 # Starter code is takem from "The Web Developer Bootcamp 2022" by Colt Steele
 
-#Improvements I've made:
+# Improvements I've made:
 - removed original card containing the image
 - added a new card and image
-- fixed columns allignment on all components
+- fixed columns allignment on all components using [BULMA](https://bulma.io/) and CSS
 - added a random-sized ball, which moves on each player's click within the image figure
 - removed the ball on reset
 
