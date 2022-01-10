@@ -1,18 +1,13 @@
 
 colors = [
-    "#a3f72d",
-    "#fa0c24",
-    "##0cfa0c",
-    "#0af7d4",
-    "#f307f7",
-    "#1a2beb",
-    "#eb71de",
-    "#4eed32",
-    "#21fce3",
-    "#90f0f0",
-    "#7a1818",
-    "#e05024",
-    "#2cfa02",
+    '#f5faf6',
+    '#fafaf5',
+    '#faf5f9',
+    '#f6f5fa',
+    '#faf7f5',
+    '#dbd8d5',
+    '#f7e9f5',
+    '#f7f6dc'
   ];
 
 const p1 = {
